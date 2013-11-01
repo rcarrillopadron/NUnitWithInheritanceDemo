@@ -1,4 +1,4 @@
 NUnitWithInheritanceDemo
 ========================
 
-NUnit with Inheritance
+This demonstrate how to use NUnit with Inheritance.
